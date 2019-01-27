@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\AlarmOdevi\AlarmOdevi\bin\Debug\AlarmOdevi.exe.config
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\AlarmOdevi\AlarmOdevi\bin\Debug\AlarmOdevi.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\AlarmOdevi\AlarmOdevi\bin\Debug\AlarmOdevi.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\AlarmOdevi\AlarmOdevi\obj\Debug\AlarmOdevi.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\AlarmOdevi\AlarmOdevi\obj\Debug\AlarmOdevi.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\AlarmOdevi\AlarmOdevi\obj\Debug\AlarmOdevi.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\AlarmOdevi\AlarmOdevi\obj\Debug\AlarmOdevi.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\AlarmOdevi\AlarmOdevi\obj\Debug\AlarmOdevi.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\AlarmOdevi\AlarmOdevi\obj\Debug\AlarmOdevi.pdb
